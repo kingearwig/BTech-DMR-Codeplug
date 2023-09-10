@@ -1,0 +1,4 @@
+"No.","Scan List Name","Scan Channel Member","Scan Mode","Priority Channel Select","Priority Channel 1","Priority Channel 2","Revert Channel","Look Back Time A[s]","Look Back Time B[s]","Dropout Delay Time[s]","Dwell Time[s]"
+"1","VHF/UHF Repeater","KA9QJG 2m|N9IAA 2m FM|K9PC|W8IRA|K8DAA Holland|KM8CC|K9JSI LaPorte|W8MAI Bridgman|K8RXD","Off","Off","Off","Off","Selected","1.5","2.5","2.9","2.9"
+"2","GMRS","FRS/GMRS 1|FRS/GMRS 2|FRS/GMRS 3|FRS/GMRS 4|FRS/GMRS 5|FRS/GMRS 6|FRS/GMRS 7|FRS 8|FRS 9|FRS 10|FRS 11|FRS 12|FRS 13|FRS 14|GMRS 15|GMRS 16|GMRS 17|GMRS 18|GMRS 19|GMRS 20|GMRS 21|GMRS 22|15RP|16RP|17RP|19RP|20RP|21RP|22RP|18RP","Off","Off","Off","Off","Selected","2.0","3.0","3.1","3.1"
+"3","VHF/UHF Call","2m Call|70cm Call","Off","Off","Off","Off","Selected","2.0","3.0","3.1","3.1"
